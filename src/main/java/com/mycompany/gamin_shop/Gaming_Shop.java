@@ -13,12 +13,8 @@ public class Gaming_Shop {
     public static void main(String[] args) {
               new login().setVisible(true);
               new main().setVisible(true);
-               new login().setVisible(true);
-              new main().setVisible(true);
-               new login().setVisible(true);
-              new main().setVisible(true);
-        
-        
+              System.out.println("ayham");
+                                
        
 
     }
