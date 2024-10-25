@@ -14,6 +14,7 @@ public class Gaming_Shop {
               // new login().setVisible(true);
         new main().setVisible(true);
         new main().setVisible(true);
+        new main().setVisible(true);
 
     }
 }
