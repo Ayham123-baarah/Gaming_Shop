@@ -11,11 +11,12 @@ package com.mycompany.gamin_shop;
 public class Gaming_Shop {
 
     public static void main(String[] args) {
-              new login().setVisible(true);
-              new main().setVisible(true);
-              System.out.println("ayham");
+           new login().setVisible(true);
+           new main().setVisible(true);
+           new logout().setVisible(true);
+           new reservation().setVisible(true);
+   
                                 
        
-
     }
 }
