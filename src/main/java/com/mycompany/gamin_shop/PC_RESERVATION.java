@@ -60,6 +60,7 @@ public class PC_RESERVATION extends javax.swing.JFrame {
         jLabel3.setText("PC NUMBER");
         getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(400, 130, 200, 80));
 
+        jTextField1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField1ActionPerformed(evt);

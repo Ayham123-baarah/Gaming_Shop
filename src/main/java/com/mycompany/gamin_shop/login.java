@@ -89,6 +89,8 @@ public class login extends javax.swing.JFrame {
             }
         });
         getContentPane().add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 370, 230, 50));
+
+        jPasswordField1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         getContentPane().add(jPasswordField1, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 310, 230, 30));
 
         jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\LENOVO\\Desktop\\photo\\login.jpg")); // NOI18N
